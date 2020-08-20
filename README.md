@@ -30,8 +30,6 @@ My name is Shiraz Berger and I am a Computer Science Student at Bar Ilan Univers
 <!--
 
 
-
-
 **shiraz318/shiraz318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
