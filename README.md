@@ -12,12 +12,13 @@ My name is Shiraz Berger and I am a Computer Science Student at Bar Ilan Univers
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  
 </p>
 
+
 ## &#x1f4c8; GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shiraz318&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiraz318&hide=TeX&layout=compact)
 
 
-## 📫 Reach me on
+## 📫 How To Reach Me: 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/shiraz-berger-6a4a861b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shiraz422@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,10 +28,6 @@ My name is Shiraz Berger and I am a Computer Science Student at Bar Ilan Univers
 
 
 <!--
-
-#### 📫 How To Reach Me:   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shiraz-berger-6a4a861b4/)
-<a href="mailto:shiraz422@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>  
 
 
 
