@@ -1,6 +1,5 @@
-## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-  
-My name is Shiraz Berger and I am a Computer Science Student at Bar Ilan University.
+## Welcome <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+ 
 
 ## 🔧 Technologies & Tools
 <p align="left">
